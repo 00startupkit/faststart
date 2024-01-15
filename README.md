@@ -4,3 +4,4 @@ quickly on a startup idea.
 
 - [amplification](https://github.com/amplication/amplication): Create backend services and apis rapidly.
 - [retool](https://retool.com): Create internal tools/dashboards.
+- [linear.app](https://linear.app): Issue delegation & projet management.
